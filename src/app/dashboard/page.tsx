@@ -24,7 +24,7 @@ export default function Dashboard() {
         {/* Main Content */}
         <div className="lg:col-span-6 space-y-6">
           <div className="bg-white p-6 rounded-lg shadow-sm">
-            <h2 className="text-lg font-semibold mb-4">Today's Schedule</h2>
+            <h2 className="text-lg font-semibold mb-4">Todays Schedule</h2>
             {/* Add schedule content */}
           </div>
           
